@@ -8,7 +8,7 @@ const Button = () => {
   return (
     <button
       onClick={handleClick}
-      className="bg-green-500 text-white px-4 py-2 rounded mt-4"
+      className="bg-green-400 text-white rounded mt-4"
     >
       Clique Aqui
     </button>
